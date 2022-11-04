@@ -12,7 +12,7 @@ Algorithmic rankings have become increasingly common in the online world. From s
 
 
 ![avatar](assets/img/hannah.jpeg){: style="float: left; width: 100px; padding-right:20px; padding-bottom:20px"}
-[Hannah Korevaar](https://www.linkedin.com/in/hannah-korevaar-5163b463/) is a Research Scientist at Meta on Responsible AI. Hannah got her PhD in Demography and Social Policy from Princeton. Hannah has been working on developing evaluation and mitigation strategies for recommendation systems since starting in August 2020. 
+[Hannah Korevaar]() is a Research Scientist at Meta on Responsible AI. Hannah got her PhD in Demography and Social Policy from Princeton. Hannah has been working on developing evaluation and mitigation strategies for recommendation systems since starting in August 2020. 
 
 ![avatar](assets/img/manish.png){: style="float: left; width: 100px; padding-right:20px; padding-bottom:20px"} 
 [Manish Raghavan](https://mraghavan.github.io/), is an assistant professor at MIT in the Fall 2022. Manish got his PhD in Computer Science from Cornell University studying algorithmic fairness and its application to job search and recommendation engines, and then worked as a postdoctoral fellow at the Harvard Center for Research on Computation and Society (CRCS).  
