@@ -11,7 +11,7 @@ Algorithmic rankings have become increasingly common in the online world. From s
 ## Speakers
 
 
-![avatar](assets/img/hannah.jpeg){: style="float: left; width: 100px; padding-right:20px; padding-bottom:20px"}
+![avatar](assets/img/hannah.png){: style="float: left; width: 100px; padding-right:20px; padding-bottom:20px"}
 [Hannah Korevaar]() is a Research Scientist at Meta on Responsible AI. Hannah got her PhD in Demography and Social Policy from Princeton. Hannah has been working on developing evaluation and mitigation strategies for recommendation systems since starting in August 2020. 
 
 ![avatar](assets/img/manish.png){: style="float: left; width: 100px; padding-right:20px; padding-bottom:20px"} 
