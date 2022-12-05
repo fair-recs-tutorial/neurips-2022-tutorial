@@ -18,14 +18,14 @@ Algorithmic rankings have become increasingly common in the online world. From s
 [Manish Raghavan](https://mraghavan.github.io/), is an assistant professor at MIT in the Fall 2022. Manish got his PhD in Computer Science from Cornell University studying algorithmic fairness and its application to job search and recommendation engines, and then worked as a postdoctoral fellow at the Harvard Center for Research on Computation and Society (CRCS).  
 
 ![avatar](assets/img/ashudeep.png){: style="float: left; width: 100px; padding-right:20px; padding-bottom:20px"}
-[Ashudeep Singh](https://www.ashudeepsingh.com/) is an Applied Research Scientist at Pinterest working on developing evaluation methods and algorithms to ensure that PInterest ML models work well for a diverse set of users and content providers. Ashudeep got his PhD in Computer Science from Cornell University studying fairness in ranking. 
+[Ashudeep Singh](https://www.ashudeepsingh.com/) is an Applied Research Scientist at Pinterest working on developing evaluation methods and algorithms to ensure that Pinterest ML models work well for a diverse set of users and content providers. Ashudeep got his PhD in Computer Science from Cornell University studying fairness in ranking. 
 
 
 
 ## Panelists
 
-Chloé Bakalar, Temple University. Chloé is Assistant Professor of Political Science. She is also a Visiting Research Collaborator at Princeton University's Center for Information Technology Policy (CITP). She is a political and legal theorist with a background in American politics. Her work focuses on philosophical and legal questions surrounding freedom of speech, especially in relation to liberal democratic citizenship. Additional research interests include: ethics and public policy (esp. technology ethics); normative ethics; democratic theory; contemporary political thought; and the history of ideas. 
+Chloé Bakalar, Temple University. 
 
-Fernando Diaz, Google Research. Fernando Diaz is a research scientist at Google Research Montréal. Fernando's research spans twenty years and focuses on the design of information access systems, including search engines and recommender systems. He is particularly interested in understanding and addressing the societal implications of artificial intelligence more generally. Fernando has presented his research at multiple academic conferences and served as a Program Co-Chair for the 2019 ACM Conference on Fairness, Accountability, and Transparency. Previously, Fernando was the assistant managing director of Microsoft Research Montréal, where he also led FATE Montréal, and a director of research at Spotify, where he established its research organization on recommendation, search, and personalization.
+Fernando Diaz, Google Research. 
 
-Diana Lam, Meta Platforms. Diana is a Data Scientist at Meta on the Responsible AI team. Diana works on evaluating recommendation systems and working to expand the user dimensions for which we can evaluate systems and models. 
+Alana Shine, Meta Platforms. 
