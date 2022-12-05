@@ -24,8 +24,8 @@ Algorithmic rankings have become increasingly common in the online world. From s
 
 ## Panelists
 
-Chloé Bakalar, Temple University. 
+Chloé Bakalar, Temple University. Chloé is an Assistant Professor of Political Science. She is also a Visiting Research Collaborator at Princeton University's Center for Information Technology Policy (CITP). She is a political and legal theorist with a background in American politics. Her work focuses on philosophical and legal questions surrounding freedom of speech, especially in relation to liberal democratic citizenship. Additional research interests include: ethics and public policy (esp. technology ethics); normative ethics; democratic theory; contemporary political thought; and the history of ideas. 
 
-Fernando Diaz, Google Research. 
+Fernando Diaz, Google Research. Fernando Diaz is a research scientist at Google Research Montréal. His research spans twenty years and focuses on the design of information access systems, including search engines and recommender systems. He is particularly interested in understanding and addressing the societal implications of artificial intelligence more generally. Fernando has presented his research at multiple academic conferences and served as a Program Co-Chair for the 2019 ACM Conference on Fairness, Accountability, and Transparency. Previously, Fernando was the assistant managing director of Microsoft Research Montréal, where he also led FATE Montréal, and a director of research at Spotify, where he established its research organization on recommendation, search, and personalization.
 
-Alana Shine, Meta Platforms. 
+Alana Shine, Meta. Alana Shine is a research scientist at Meta working in Responsible AI on the ranking and recommendation system fairness team. She is interested in how to design fair recommendation systems within dynamic social networks. Before this, she completed her Computer Science PhD at the University of Southern California on generative graph models. 
