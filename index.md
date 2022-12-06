@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Slides (available soon)
+Slides: [Download here](assets/tutorial-fairrecs-neurips.pdf)
 
 ## Abstract
 Algorithmic rankings have become increasingly common in the online world. From social media to streaming services and from e-commerce to hiring, ranking has become the primary way online users ingest information. In many cases, recommendations have implications for both the users and items (or creators) being ranked. These systems are also increasingly personalized to viewers, relying on imperfect information to learn and respond to user preferences. In recent years, the machine learning community has become increasingly aware of potential harms to consumers (e.g. echo chambers, addictive design, virality of harmful content) and creators (e.g. access to opportunity, misattribution and appropriation). In this tutorial we will explore the current state of research on responsible recommendations and the primary challenges with designing, evaluating and training these systems for user and content providers. This tutorial additionally presents the primary challenges in applying this research in practice. The perspectives and methods presented in this tutorial will apply to recommendation systems generally and will not include any specific information regarding actual recommendation products. The tutorial is designed to be accessible to a broad audience of machine learning practitioners, some background in predictive systems and ranking is beneficial but not required. 
